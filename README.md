@@ -1,5 +1,7 @@
 # Block-ninja
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
 This game is made with html, CSS &amp; JS only.
 
 ## Prerequisites
@@ -53,7 +55,7 @@ You can copy & paste this link <https://kunaldesign.github.io/Block-ninja/> or [
 
 This software uses the following open source packages:
 
-- [vscode](http://electron.atom.io/)
+* [vscode](http://electron.atom.io/)
 
 ## Support
 
